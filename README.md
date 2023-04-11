@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+
+# Countries Rest API Frontend Mentor Challenge Solution Using ReactJS with Updated API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install and set up the library.
 
 ### `npm start`
 
