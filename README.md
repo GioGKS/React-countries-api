@@ -1,5 +1,5 @@
 
-# Countries Rest API Frontend Mentor Challenge Solution Using ReactJS with Updated API
+# Countries Rest API Frontend - Using ReactJS with Updated API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
